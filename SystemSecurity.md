@@ -200,7 +200,7 @@ CPU卡：IC卡內含CPU
 安全等級三：嚴謹的防護
 安全等級四：嚴密的防護
 ```
-#### [入侵偵測](https://github.com/Ethel90/InformationSecurity_Intro/blob/main/IDS.png)
+#### [入侵偵測](https://raw.githubusercontent.com/Ethel90/Photo/main/InformationSecurity_Intro/IDS.png?token=AOYZYZVWTORGS7AFPFX3MEC77EOLW)
 - 入侵偵測系統 (Intrusion Detection System; IDS)
     - 功能四部份
         1. 截取原始資料
